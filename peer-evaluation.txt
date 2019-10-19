@@ -1,0 +1,40 @@
+Name: Jacob Sievert
+Date: 10/19/2019
+Project: P05-Space-Shooter
+Peer's repository: https://github.com/brockco1/05-Space-Shooter.git
+
+
+
+What is something you learned by reviewing your peer's project?
+I learned that it's important to be careful what file types you use, because I had to struggle to open the .7z file that was included.
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+All of their variable names were very clear and descriptive, and I would like to focus on trying to do that with my variable names as well.
+ 
+
+What suggestions would you have for your peer to improve his/her code?
+The code as a whole was well written and decently commented, I just wish the game itself had more to it.
+ 
+
+What could have been clearer or better commented?
+I know it seems very clear, but it wouldn't hurt to add a comment explaining what's happening when you
+initalize the window in lines 64 through 76.
+ 
+
+Was there anything in the code that was confusing to you? If so, what?
+Within the code there was nothing confusing, but the readme file gave me pause... (See below)
+ 
+
+The repository contains an appropriate license.
+ 
+
+What is something he/she could add to the README.md to make it more descriptive?
+I'm honestly not sure I was playing the right game based off of the description in the README file.
+I ran the main.py file and shot at an asset named "factory" which looks like a skull.
+The readme file says that the space ship is shooting at asteroids in this game...
+ 
+
+Pay a compliment to your peer based on the quality of his/her code.
+The code was very easy to follow and understand, and knowing my habit for making a mangled mess of code,
+I greatly admire that.
+
