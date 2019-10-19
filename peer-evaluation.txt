@@ -1,0 +1,38 @@
+Name: Jadan Ercoli
+Date:10/19/2019
+Project: Space-Shooter
+Peer's repository: https://github.com/brockco1/05-Space-shooter
+
+
+
+What is something you learned by reviewing your peer's project?
+ - Through reviewing my peer's project, I learned how to change the position of the enemies.
+ 
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+    - Seeing the sprite textures in my peer's project makes me consider utilizing that theme in my own projects.
+ 
+
+What suggestions would you have for your peer to improve his/her code?
+    - None
+ 
+
+What could have been clearer or better commented?
+    - Some comments described penguin enemies, but the enemies appeared to be large ships.
+ 
+
+Was there anything in the code that was confusing to you? If so, what?
+    - None
+ 
+
+Does the repository contain an appropriate LICENSE?
+    - I believe that it must contain a full name, but my peer put their username.
+ 
+
+What is something he/she could add to the README.md to make it more descriptive?
+    - Well, the asteroids mentioned in the README look very similar to that of an enemy spaceship, so I would suggest changing that to more closely resememble the finished product.
+ 
+
+Pay a compliment to your peer based on the quality of his/her code.
+    - I really liked the sprite model for the user's ship. 
+
